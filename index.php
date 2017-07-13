@@ -169,7 +169,7 @@ foreach ($arrRef as $k=>$v){
 				<label>Tanggungan:</label>
 				<small>Jumlah tanggungan</small>
 				<input class="goWidth" type="number" name="tanggungan" id="tanggungan" value="" autocomplete="off" required="required" /><br />
-				<label>Object:</label>
+				<label>Objek Kredit:</label>
 				<small>Jenis barang yang akan di kredit</small>
 				<select class="goWidth" name="object" id="object" autocomplete="off" required="required" >
 					<option value="">- Pilih -</option>
